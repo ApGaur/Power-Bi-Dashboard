@@ -1,4 +1,4 @@
-****Problem to Solve:**
+**Problem to Solve:**
 The dashboard aims to provide a comprehensive overview of Super Mart's supply chain performance. It addresses the need to monitor and analyze key metrics related to order fulfillment, product performance, and regional variations in supply chain efficiency.
 Tools and Technologies Used:
 Based on the visual style and complexity of the dashboard, it appears to have been created using:
